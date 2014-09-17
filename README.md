@@ -1,0 +1,1 @@
+This module is based on the Google images accordion. It's responsive and auto scrolls to the selected div.
